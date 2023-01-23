@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="888" height="575" style="white-space: pre;">
+<defs>
+<image id="Image0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA3gAAAI/AQMAAAAfiultAAAABlBMVEUGCgX+0wr7ypNZAAAA/klEQVR42u3dsQkAIAwAwYCFazu4GDt7QRTkvg7cAiGJkCRJkiRJkqRrlVy13KvXrWkej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8XinPEkP9l8Gj8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxfvIk+f/A4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej+deuiRJOtIEFDzXKG0yD3sAAAAASUVORK5CYII=" width="888" height="575" />
+<image id="Image1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAAAoAgMAAAA6S7QAAAAACVBMVEUAAAAAAAD///+D3c/SAAAAAXRSTlMAQObYZgAAAKtJREFUKM/FkL0VwyAMhEXBCNqHESgkiozAPh4hRTRl9AM4uLG7XIF53x3yPUGBXQnqhWSgceFhIbB/WRUeA9og5IkSAVZ7ElIzK6EZ8ZAGkGOKS69VX5S8SElOKi5S1VdCCzChk10F0i2BRwTuCA3SDz3aZxBrLG89XmKtgzQxu8sRxF2zxZJjThe1m3gy+tyRvM8Z2/j519zP2WeSs7PveVcF/COh6+KfkS8jFsW42rMUsAAAAABJRU5ErkJggg==" width="68" height="40" />
+<image id="Image2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKEAAAC7AgMAAABwchbYAAAADFBMVEUAAAAAAAAoKSb///+XICtIAAAAAXRSTlMAQObYZgAAAl1JREFUWMPt2U1u5SAMAGBYcAQ018kRssBiNcpJqvQ8PU+jngTNClHMT0ISiJmnLroA6W3S7yU22G6kx1ixZta5uOqVAnqlhKlTAnQGysF0Biq0pQOV+Fi5ODpQQNIpfYSwum2mJUwcnCNT4noDJfqk83fVzpHJe2kAFufIlLz0N107pfFhOjJ5lA4/ZEpBuv+TVPKHpFJ6SRLJF9LMTEx90p//3CUtPHYTh17JoISPm5+loWCWCIkNjXLDciY2FHaIG0rJCDtkglTdAXZcaCRnFdXvCRKSH/BZBrg6WmZoEX4lKUNAlwOT6Y5bGA1JQrHUVcZx8xav67TDYR2SSZTLl5dvhdw7Zp/ajJCmDBXl+g+zSnIp5XSWdjX+ovv7LMXxB3uXti5TLZ3k/JLUT9Kp+rgJQfGThGrD1+Q2VRo+ff8sy445iq4my0qUy3l8n2UZqNTn+cnXkyxOSeRAoSqLHeUpUJuGzUUWO5obzqSIrnIryz4+XNVlDnTvYpOnrLjIHKiA2J52n4lXmQOV+GJxasOb/Ez5LHFuH2O2IeMWbWVnN2SqzqKxWzIfejG4havLtVfmkjO0vJdhXfKKlHWpf4V0r8g/Q97lpncZy1k3pE2DQYU2nR/kFl8XUMrYTC0JaYSo+J+1Lf2zTah7hW0ahtjSkr4xlyBxOmI7tSS+/CSZ3oNa0l83OkhsaCzTB2mTXBtS7cPGwqM0h3SHdBUZ52qHTEO99nS4rIndr9UX65Z41yF/VrKflv0HP+SQQw455JBDDjnkkM+S/NFIDDnk75cfH++dsuuHZC+/Ac79HN99wM4fAAAAAElFTkSuQmCC" width="161" height="187" />
+<path id="Path0" fill="none" stroke="none" d="M54,294 L54,176" />
+<path id="Path1" fill="none" stroke="none" d="M91,280 L91,191" />
+<path id="Path2" fill="none" stroke="none" d="M59,513 L59,395" />
+<path id="Path3" fill="none" stroke="none" d="M94,492 L94,418" />
+</defs>
+<use x="0" y="0" xlink:href="#Image0" />
+<use x="29" y="80" xlink:href="#Image1" />
+<use x="226" y="139" xlink:href="#Image2" />
+<text x="387" y="33" fill="#fed30a" font-size="37" >The Gamer Matrix</text>
+<text x="221" y="80" fill="#ffffff" font-size="30" >GAME DEVELOPER /</text>
+<text x="221" y="115" fill="#ffffff" font-size="30" >PUBLISHER IS GOOD</text>
+<text x="596" y="80" fill="#ffffff" font-size="30" >GAME DEVELOPER /</text>
+<text x="596" y="115" fill="#ffffff" font-size="30" >PUBLISHER IS ARSE</text>
+<text fill="#ffffff" font-size="30" ><textPath xlink:href="#Path0">GAME IS</textPath></text>
+<text fill="#ffffff" font-size="30" ><textPath xlink:href="#Path1">GOOD</textPath></text>
+<text fill="#ffffff" font-size="30" ><textPath xlink:href="#Path2">GAME IS</textPath></text>
+<text fill="#ffffff" font-size="30" ><textPath xlink:href="#Path3">ARSE</textPath></text>
+<text x="208" y="268" fill="#ffffff" font-size="30" >ALL IS</text>
+<text x="221" y="313" fill="#ffffff" font-size="30" >WELL</text>
+<text x="530" y="227" fill="#ffffff" font-size="60" >HOSTAGE</text>
+<text x="661" y="313" fill="#ffffff" font-size="60" >IP</text>
+<text x="239" y="418" fill="#ffffff" font-size="60" >RARE</text>
+<text x="222" y="491" fill="#ffffff" font-size="30" >PITY WHEN</text>
+<text x="208" y="536" fill="#ffffff" font-size="30" >THIS HAPPENS</text>
+<text x="530" y="418" fill="#ffffff" font-size="60" >POINT AND</text>
+<text x="586" y="513" fill="#ffffff" font-size="60" >LAUGH</text>
+</svg>

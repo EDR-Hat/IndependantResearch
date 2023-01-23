@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="888" height="575" style="white-space: pre;">
+
+<defs>
+<path id="Path1" fill="none" stroke="none" d="M54,294 L54, 176" />
+<path id="Path2" fill="none" stroke="none" d="M91,280 L91, 191" />
+<path id="Path3" fill="none" stroke="none" d="M59,513 L59, 395" />
+<path id="Path4" fill="none" stroke="none" d="M94,492 L94, 418" />
+<image id="desk" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKEAAAC7AgMAAABwchbYAAAADFBMVEUAAAAAAAAoKSb///+XICtIAAAAAXRSTlMAQObYZgAAAl1JREFUWMPt2U1u5SAMAGBYcAQ018kRssBiNcpJqvQ8PU+jngTNClHMT0ISiJmnLroA6W3S7yU22G6kx1ixZta5uOqVAnqlhKlTAnQGysF0Biq0pQOV+Fi5ODpQQNIpfYSwum2mJUwcnCNT4noDJfqk83fVzpHJe2kAFufIlLz0N107pfFhOjJ5lA4/ZEpBuv+TVPKHpFJ6SRLJF9LMTEx90p//3CUtPHYTh17JoISPm5+loWCWCIkNjXLDciY2FHaIG0rJCDtkglTdAXZcaCRnFdXvCRKSH/BZBrg6WmZoEX4lKUNAlwOT6Y5bGA1JQrHUVcZx8xav67TDYR2SSZTLl5dvhdw7Zp/ajJCmDBXl+g+zSnIp5XSWdjX+ovv7LMXxB3uXti5TLZ3k/JLUT9Kp+rgJQfGThGrD1+Q2VRo+ff8sy445iq4my0qUy3l8n2UZqNTn+cnXkyxOSeRAoSqLHeUpUJuGzUUWO5obzqSIrnIryz4+XNVlDnTvYpOnrLjIHKiA2J52n4lXmQOV+GJxasOb/Ez5LHFuH2O2IeMWbWVnN2SqzqKxWzIfejG4havLtVfmkjO0vJdhXfKKlHWpf4V0r8g/Q97lpncZy1k3pE2DQYU2nR/kFl8XUMrYTC0JaYSo+J+1Lf2zTah7hW0ahtjSkr4xlyBxOmI7tSS+/CSZ3oNa0l83OkhsaCzTB2mTXBtS7cPGwqM0h3SHdBUZ52qHTEO99nS4rIndr9UX65Z41yF/VrKflv0HP+SQQw455JBDDjnkkM+S/NFIDDnk75cfH++dsuuHZC+/Ac79HN99wM4fAAAAAElFTkSuQmCC" width="161" height="187" />
+<image id="back" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA3gAAAI/AQMAAAAfiultAAAABlBMVEUGCgX+0wr7ypNZAAAA/klEQVR42u3dsQkAIAwAwYCFazu4GDt7QRTkvg7cAiGJkCRJkiRJkqRrlVy13KvXrWkej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8XinPEkP9l8Gj8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxfvIk+f/A4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej8fj8Xg8Ho/H4/F4PB6Px+PxeDwej+deuiRJOtIEFDzXKG0yD3sAAAAASUVORK5CYII=" width="888" height="575" />
+<image id="logo" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAAAoAgMAAAA6S7QAAAAACVBMVEUAAAAAAAD///+D3c/SAAAAAXRSTlMAQObYZgAAAKtJREFUKM/FkL0VwyAMhEXBCNqHESgkiozAPh4hRTRl9AM4uLG7XIF53x3yPUGBXQnqhWSgceFhIbB/WRUeA9og5IkSAVZ7ElIzK6EZ8ZAGkGOKS69VX5S8SElOKi5S1VdCCzChk10F0i2BRwTuCA3SDz3aZxBrLG89XmKtgzQxu8sRxF2zxZJjThe1m3gy+tyRvM8Z2/j519zP2WeSs7PveVcF/COh6+KfkS8jFsW42rMUsAAAAABJRU5ErkJggg==" width="68" height="40" />
+<image id="hang" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKEAAADCAgMAAABcX0rRAAAADFBMVEUAAAAAAAAoKSb///+XICtIAAAAAXRSTlMAQObYZgAAAf1JREFUWMPt2UtuwyAQBmC84AhWr+PewAuPvOQo7nl6nnAUlhblYWwgNvyRUrWJYBl9YpgZHmnKGGPdrP1YaWDF8daS/aFUU0UywuXipazKXnhJY01ywsppUvLhZS11u1AXniZAkgs+1mVPbgx12TkIBN8mZeCYUNghqwxLBSUnpEibhOIT4wIrE039siKT2sovUDu7WdpNAsmVzGGS9ehcaGXCEyS1FBqoPTd7Xi6I7B+SalmR02FPkcalwuRqJFJ4I2dUqhlskVYCbZHCWiQea9EKyqzw2/2TV7h3hddTcqcdY8oLr2+RnN19uo1U2i2fyTBk3qKk8rFUd1JFUsRySKRZQdz3c2kLr+15v5DrnYzLlMgxLrw9mnE7C1KlZYrlEctJm9JRpi6RlDzFTo7ncp/Bv5omJXUh9899P0xKx+FMZdhl21cGk9KxQ1MZFrpJu9BDLokMXfJvtpPDuQwVpT2lPflMhopymkNKV1LuR0H4lC5lWGjn4isSe3Seyb31nNxROh7EXB6tt/GL8hadb3MzfO5VKkgza3w4SrJLXu2SNPFjqQuSxddnWSb35C/I/u3kR5OAnF9EileVEyoVLK+/a2dSUeHPtXQMJ5+dDwZLO2uTz5Xs2RJvfJNNNtlkk0022WSTTZZl9cdh3mST/19+f3+BEvuv3sB+AA9dzlDOMMC1AAAAAElFTkSuQmCC" width="161" height="194" />
+</defs>
+
+<use x="0" y="0" xlink:href="#back" />
+
+<use x="29" y="80" xlink:href="#logo" />
+
+<use x="226" y="139" xlink:href="#desk" />
+
+<use x="596" y="139" xlink:href="#desk" />
+
+<use x="226" y="363" xlink:href="#desk" />
+
+<use x="608" y="351" xlink:href="#hang" />
+
+<text x="387" y="33"  font-size="30" fill="#fed30a">The Gamer Matrix</text>
+
+<text x="239" y="78"  font-size="30" fill="#000000">DON'T GET</text>
+<text x="239" y="115"  font-size="30" fill="#000000">EXCITED</text>
+
+<text x="661" y="78"  font-size="30" fill="#000000"><tspan>GET</tspan></text>
+<text x="630" y="115"  font-size="30" fill="#000000">EXCITED</text>
+
+<text font-size="30" fill="#000000" xlink:href="#Path1">GAME IS</text>
+<text font-size="30" fill="#000000"><textPath xlink:href="#Path2">GOOD</textPath></text>
+<text font-size="30" fill="#000000"><textPath xlink:href="#Path3">GAME IS</textPath></text>
+<text font-size="30" fill="#000000"><textPath xlink:href="#Path4">ARSE</textPath></text>
+
+<text x="208" y="268"  font-size="37" stroke="#000000" stroke-width="2" fill="white">PLEASANTLY</text>
+<text x="221" y="313"  font-size="37" stroke="#000000" stroke-width="2" fill="#ffffff">SURPRISED</text>
+
+<text x="222" y="491"  font-size="37" stroke="#000000" stroke-width="2" fill="#ffffff">SMUG SELF</text>
+<text x="192" y="536"  font-size="37" stroke="#000000" stroke-width="2" fill="#ffffff">SATISFACTION</text>
+
+
+<text x="625" y="277"  font-size="37" stroke="#000000" stroke-width="2" fill="#ffffff">ALL IS</text> 
+<text x="627" y="322"  font-size="37" stroke="#000000" stroke-width="2" fill="#ffffff">WELL</text> 
+
+<text x="586" y="506"  font-size="60" stroke="#000000" stroke-width="2" fill="#fe0000">SUICIDE</text> </svg>
